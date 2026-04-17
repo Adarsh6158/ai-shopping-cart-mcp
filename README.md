@@ -1,4 +1,4 @@
-# ai-shopping-cart-mcp
+# AI-Shopping-Cart-MCP
 
 ## MCP (Model Context Protocol)
 
@@ -33,7 +33,8 @@ With MCP, the AI can:
 All of this happens in a structured and seamless way using MCP.
 
 ---
-<img width="900" height="215" alt="CLAUDE Desktop" src="https://github.com/user-attachments/assets/7d5d5785-f00f-4778-90f5-c326153033f4" />
+<img width="780" height="250" alt="image" src="https://github.com/user-attachments/assets/bac6caf6-5477-4b9d-8cf5-2a9a4410b3ca" />
+
 
 ## Shopping Cart MCP Server
 
@@ -80,7 +81,9 @@ Below is the developer settings configuration in Claude Desktop:
 Screenshots after successfully connecting to Claude:
 
 <img width="820" height="450" alt="image" src="https://github.com/user-attachments/assets/52a04f4b-4edb-4915-9702-2878a31fa26d" />
+<br><br>
 <img width="778" height="209" alt="image" src="https://github.com/user-attachments/assets/902b1d83-0a55-4c89-b2bd-074b35046c4a" />
+<br><br>
 <img width="797" height="359" alt="image" src="https://github.com/user-attachments/assets/107dfd81-760c-4142-998c-174f4700211b" />
 
 ---
